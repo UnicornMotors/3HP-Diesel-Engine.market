@@ -10,6 +10,9 @@ $173
 # 3HP-Diesel-Engine.market
 sch: https://www.aliexpress.us/w/wholesale-3hp-diesel-engine.html?spm=a2g0o.detail.auto_suggest.1.6f97tIEFtIEFfj
 
+## $170
+- https://www.aliexpress.us/item/3256807078638910.html
+
 ## $175
 - [3HP 4Stroke Engine Single Cylinder Air Cooled For Small Agricultural Machinery Diesel Engine](https://www.aliexpress.us/item/3256805934020563.html)
 
